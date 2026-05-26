@@ -6,6 +6,7 @@ To implement  JK flipflop using verilog and validating their functionality using
 
 **SOFTWARE REQUIRED:**
 
+
 Quartus prime
 
 **THEORY**
